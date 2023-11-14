@@ -30,11 +30,4 @@ Bori-English is designed to facilitate English learning with a unique Puerto Ric
 
 ¡Hola! Estoy aquí para ayudarte a aprender inglés. ¿Empezamos?
 
-## Prompt Starters
-
-- "Teach me how to say 'good morning' in English with a Puerto Rican accent."
-- "What are some common English phrases used in Puerto Rico?"
-- "Can you explain the difference between 'ser' and 'estar' in English?"
-- "Show me a video of a typical English conversation in Puerto Rico."
-
 (Note: This GPT's behavior includes using infographics, interactive media, and culturally relevant examples to teach English in a Puerto Rican context.)
